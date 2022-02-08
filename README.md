@@ -7,6 +7,11 @@
 Useful scripts, notes, config files, tutorials, themes, and other resources.
 
 ## Notes
-These are commands, services, or tasks that might come up but not very often so you might not know the commands off the top of your head.
+Notes on commands, services, or tasks that might come up but not very often so you may not know the commands off the top of your head.
 
-- [GPG](notes/gpg.md)
+- [GPG](notes/gpg.md): Find exisiting or create new GPG keys.
+
+## Scripts
+Convience scripts that print results nicely on the terminal. 
+
+- [users.sh](scripts/users.sh): Lists all users and highlights the current user. (Requires Root)
