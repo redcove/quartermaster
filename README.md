@@ -15,4 +15,5 @@ Notes on commands, services, or tasks that might come up but not very often so y
 ## Scripts
 Convience scripts that print results nicely on the terminal. 
 
-- [users.sh](scripts/users.sh): Lists all users and highlights the current user. (Requires Root)
+- [users.sh](scripts/users.sh): `./users.sh` - Lists all users and highlights the current user. (Requires Root)
+- [revshell.sh](scripts/revshell.sh): `./revshell.sh <Host> <Port>` - `<Host>` is a valid IP address. `<Port>` is a valid port. Sends a reverse shell to the remote `host:port`.
